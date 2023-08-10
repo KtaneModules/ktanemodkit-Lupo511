@@ -18,10 +18,10 @@ MonoBehaviour:
     depends on your grammar and orthography, and this bomb is very nitpicky. You should
     of paid more attention in you're English class.\r\n\r\n...Oh, carp.[/i]\r\n\r\n[h1]Manual[/h1]\r\nYou
     can download both the HTML and the PDF versions of the manual from the links below.
-    The PDF manual is also included in the download.\r\n[list]\r\n[*]Module: [url=https://lupo511.github.io/ktanemods/EnglishTest/Manual/EnglishTest.html]HTML[/url],
-    [url=https://lupo511.github.io/ktanemods/EnglishTest/Manual/EnglishTest.pdf]PDF[/url]\r\n[*]Grammar
-    Appendix: [url=https://lupo511.github.io/ktanemods/EnglishTest/Manual/GrammarAppendix.html]HTML[/url],
-    [url=https://lupo511.github.io/ktanemods/EnglishTest/Manual/GrammarAppendix.pdf]PDF[/url]\r\n[/list]\r\n\r\n[h1]Module
+    The PDF manual is also included in the download.\r\n[list]\r\n[*]Module: [url=https://ktanemods.lupo511.net/EnglishTest/Manual/EnglishTest.html]HTML[/url],
+    [url=https://ktanemods.lupo511.net/EnglishTest/Manual/EnglishTest.pdf]PDF[/url]\r\n[*]Grammar
+    Appendix: [url=https://ktanemods.lupo511.net/EnglishTest/Manual/GrammarAppendix.html]HTML[/url],
+    [url=https://ktanemods.lupo511.net/EnglishTest/Manual/GrammarAppendix.pdf]PDF[/url]\r\n[/list]\r\n\r\n[h1]Module
     Type Name[/h1]\r\nThe Module Type Name is EnglishTest."
   version: 1.08
   outputFolder: build
